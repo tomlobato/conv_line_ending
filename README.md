@@ -8,7 +8,9 @@ install
 =======
 
 git clone https://github.com/tomlobato/conv_line_ending
+
 chmod 755 conv_line_ending
+
 sudo cp -a conv_line_ending /usr/local/bin/
 
 
