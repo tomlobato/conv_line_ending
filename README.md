@@ -18,24 +18,33 @@ usage example
 =============
 
 tom@mobile:~ $ cd ~/my/bad/files
+
 tom@mobile:~/my/bad/files$ conv_line_ending
 
 1 app/models/robot.rb
+
 2 app/mailers/mailer.rb
+
 3 lib/extend_plans.rb
 
 Found 3 files containing \r\n.
+
 Convert \r\n to \n for:
 
 a:	all
+
 <n>:	file <n>
+
 q:	quit
 
 (a)? 2
+
 app/mailers/mailer.rb converted successfully.
 
 a:	all
+
 <n>:	file <n>
+
 q:	quit
 
 (a)? q
