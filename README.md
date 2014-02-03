@@ -18,7 +18,7 @@ usage example
 
 ```bash
 tom@mobile:~ $ cd ~/my/bad/files
-tom@mobile:~/my/bad/files$ conv_line_ending
+tom@mobile:~/my/bad/files $ conv_line_ending
 
 1 app/models/robot.rb
 2 app/mailers/mailer.rb
