@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+# TODO: rewrite ignore files handler
+
 require 'find'
 
 DIRS = %w(
